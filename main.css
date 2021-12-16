@@ -13,6 +13,15 @@
     background-size: cover;
     background-position: center;
 }
+/*
+*{
+    padding:0;
+    margin: 0;
+    font-family: "josfin sans", sans-serif;
+    box-sizing: border-box;
+}
+*/
+
 nav{
     display: flex;
     align-items: center;
