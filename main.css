@@ -1,7 +1,8 @@
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
-  
+  }
+}
 
 
 *{
@@ -284,5 +285,3 @@ footer p:nth-child(2){
     line-height: 26px;
 }
 
-}
-}
