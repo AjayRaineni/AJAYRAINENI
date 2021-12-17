@@ -298,6 +298,12 @@
             background-color: lightblue;
 
         }
+        h1 {
+        color: white;
+        margin: 25px 0px 25px;
+        font-size: 75px;
+        text-align: center;
+    }
         h4 {
 
         color: blue;
