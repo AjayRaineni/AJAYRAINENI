@@ -14,11 +14,16 @@
 }
 
 .hello {
-    margin: 30px;
+    margin: 30px 0px 50px 500px;
+    text-align: center;
 }
 
 .name {
-    margin: 20px;
+    margin: 0px 0px 50px 320px;
+}
+
+.developer {
+    margin: 0px 0px 0px 400px;
 }
 
 
@@ -98,7 +103,7 @@ h4 {
     width: 380px;
     max-width: 100%;
     position: relative;
-    margin: 30px 0 30px;
+    margin: 220px 0 30px;
 }
 
 .newslatter form input:first-child {
@@ -139,7 +144,7 @@ h4 {
 .main {
     width: 1130px;
     max-width: 95%;
-    margin: 10px auto;
+    margin: 230px auto;
     display: flex;
     align-items: center;
     justify-content: space-around;
