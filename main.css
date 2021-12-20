@@ -291,6 +291,24 @@ footer p:nth-child(1) {
     font-weight: bold;
 }
 
+#info {
+    margin: auto;
+}
+
+.reachme {
+    color: chartreuse;
+    padding: 10px;
+}
+
+.tel {
+    padding: 20px;
+}
+
+.mail {
+    padding: 10px;
+    color: cornflowerblue;
+}
+
 .social {
     color: white;
 }
