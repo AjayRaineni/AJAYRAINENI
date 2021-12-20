@@ -390,6 +390,19 @@ footer p:nth-child(2) {
         position: relative;
         top: 0px;
     }
+    #info {
+        margin: auto;
+    }
+    .reachme {
+        color: chartreuse;
+        padding: 10px;
+    }
+    .tel {
+        padding: 20px;
+    }
+    .mail {
+        padding: 10px;
+    }
     nav {
         display: flex;
         align-items: center;
