@@ -29,7 +29,7 @@
 
 /*
 
-*/
+
 
 nav {
     display: flex;
@@ -39,6 +39,7 @@ nav {
     padding-left: 8%;
     padding-right: 8%;
 }
+*/
 
 .logo {
     color: rgb(19, 12, 12);
@@ -337,8 +338,8 @@ footer p:nth-child(2) {
     .hero {
         height: 100;
         width: 100%;
-        background-image: url(/images/education.jpg);
-        /*background-image: url(/education.jpg);*/
+        /*background-image: url(/images/education.jpg);*/
+        background-image: url(/education.jpg);
         background-size: cover;
         background-position: center;
     }
